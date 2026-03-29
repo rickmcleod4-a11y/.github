@@ -1,1 +1,2 @@
-Refer to the [IETF Infrastructure and Services Vulnerability Disclosure](https://www.ietf.org/about/administration/policies-procedures/vulnerability-disclosure/) on how to disclose vulnerabilities in a secure manner.
+[Refer to the [IETF Infrastructure and Services Vulnerability Disclosure](https://www.ietf.org/about/administration/policies-procedures/vulnerability-disclosure/) on how to disclose vulnerabilities in a secure manner.
+](https://claude.ai/new?q=Read%20this%20page%20from%20the%20Cloudflare%20docs:%20https%3A%2F%2Fdevelopers.cloudflare.com%2Fcloudflare-challenges%2Ftroubleshooting%2Fchallenge-solve-issues%2Findex.md%20and%20answer%20questions%20about%20the%20content.)
